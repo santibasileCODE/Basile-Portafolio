@@ -192,7 +192,6 @@ background: radial-gradient(ellipse farthest-corner at center center, #562C73 0%
 .skill-h {
   width: 2.5rem;
   height: 2.5rem;
-  background: url("../../public/images/redux.png");
   background-size: contain;
   background-repeat: no-repeat;
 }
