@@ -1,0 +1,244 @@
+.Proyects-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 6.5rem 21rem 6.5rem 21rem;
+  background-color: #FFFFFF;
+background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100%25' height='100%25' viewBox='0 0 100 60'%3E%3Cg %3E%3Crect fill='%23FFFFFF' width='11' height='11'/%3E%3Crect fill='%23fcfbfd' x='10' width='11' height='11'/%3E%3Crect fill='%23faf7fb' y='10' width='11' height='11'/%3E%3Crect fill='%23f7f3fa' x='20' width='11' height='11'/%3E%3Crect fill='%23f4eef8' x='10' y='10' width='11' height='11'/%3E%3Crect fill='%23f2eaf6' y='20' width='11' height='11'/%3E%3Crect fill='%23efe6f4' x='30' width='11' height='11'/%3E%3Crect fill='%23ece2f2' x='20' y='10' width='11' height='11'/%3E%3Crect fill='%23e9def1' x='10' y='20' width='11' height='11'/%3E%3Crect fill='%23e7daef' y='30' width='11' height='11'/%3E%3Crect fill='%23e4d6ed' x='40' width='11' height='11'/%3E%3Crect fill='%23e1d2eb' x='30' y='10' width='11' height='11'/%3E%3Crect fill='%23dfcee9' x='20' y='20' width='11' height='11'/%3E%3Crect fill='%23dccae8' x='10' y='30' width='11' height='11'/%3E%3Crect fill='%23d9c6e6' y='40' width='11' height='11'/%3E%3Crect fill='%23d6c2e4' x='50' width='11' height='11'/%3E%3Crect fill='%23d4bee2' x='40' y='10' width='11' height='11'/%3E%3Crect fill='%23d1bae0' x='30' y='20' width='11' height='11'/%3E%3Crect fill='%23ceb6de' x='20' y='30' width='11' height='11'/%3E%3Crect fill='%23ccb2dd' x='10' y='40' width='11' height='11'/%3E%3Crect fill='%23c9aedb' y='50' width='11' height='11'/%3E%3Crect fill='%23c6aad9' x='60' width='11' height='11'/%3E%3Crect fill='%23c3a6d7' x='50' y='10' width='11' height='11'/%3E%3Crect fill='%23c0a2d5' x='40' y='20' width='11' height='11'/%3E%3Crect fill='%23be9ed3' x='30' y='30' width='11' height='11'/%3E%3Crect fill='%23bb9ad2' x='20' y='40' width='11' height='11'/%3E%3Crect fill='%23b896d0' x='10' y='50' width='11' height='11'/%3E%3Crect fill='%23b592ce' x='70' width='11' height='11'/%3E%3Crect fill='%23b38ecc' x='60' y='10' width='11' height='11'/%3E%3Crect fill='%23b08aca' x='50' y='20' width='11' height='11'/%3E%3Crect fill='%23ad86c9' x='40' y='30' width='11' height='11'/%3E%3Crect fill='%23aa83c7' x='30' y='40' width='11' height='11'/%3E%3Crect fill='%23a77fc5' x='20' y='50' width='11' height='11'/%3E%3Crect fill='%23a57bc3' x='80' width='11' height='11'/%3E%3Crect fill='%23a277c1' x='70' y='10' width='11' height='11'/%3E%3Crect fill='%239f73bf' x='60' y='20' width='11' height='11'/%3E%3Crect fill='%239c6fbe' x='50' y='30' width='11' height='11'/%3E%3Crect fill='%23996cbc' x='40' y='40' width='11' height='11'/%3E%3Crect fill='%239668ba' x='30' y='50' width='11' height='11'/%3E%3Crect fill='%239364b8' x='90' width='11' height='11'/%3E%3Crect fill='%239160b6' x='80' y='10' width='11' height='11'/%3E%3Crect fill='%238e5cb4' x='70' y='20' width='11' height='11'/%3E%3Crect fill='%238b58b2' x='60' y='30' width='11' height='11'/%3E%3Crect fill='%238855b1' x='50' y='40' width='11' height='11'/%3E%3Crect fill='%238551af' x='40' y='50' width='11' height='11'/%3E%3Crect fill='%23824dad' x='90' y='10' width='11' height='11'/%3E%3Crect fill='%237f49ab' x='80' y='20' width='11' height='11'/%3E%3Crect fill='%237c45a9' x='70' y='30' width='11' height='11'/%3E%3Crect fill='%237941a7' x='60' y='40' width='11' height='11'/%3E%3Crect fill='%23763da6' x='50' y='50' width='11' height='11'/%3E%3Crect fill='%237339a4' x='90' y='20' width='11' height='11'/%3E%3Crect fill='%237035a2' x='80' y='30' width='11' height='11'/%3E%3Crect fill='%236d31a0' x='70' y='40' width='11' height='11'/%3E%3Crect fill='%23692d9e' x='60' y='50' width='11' height='11'/%3E%3Crect fill='%2366299c' x='90' y='30' width='11' height='11'/%3E%3Crect fill='%2363249a' x='80' y='40' width='11' height='11'/%3E%3Crect fill='%23602099' x='70' y='50' width='11' height='11'/%3E%3Crect fill='%235d1b97' x='90' y='40' width='11' height='11'/%3E%3Crect fill='%23591595' x='80' y='50' width='11' height='11'/%3E%3Crect fill='%23560F93' x='90' y='50' width='11' height='11'/%3E%3C/g%3E%3C/svg%3E");
+background-attachment: fixed;
+background-size: cover;
+}
+
+.Proyects-title {
+  margin: 0 0 3rem 0;
+}
+
+.Proyects-title h2 {
+  font-size: 1.7rem;
+  padding: 0 0 0.3rem 0;
+  margin: 0;
+  border-bottom: 3px solid var(--purple);
+  color: var(--purple);
+}
+
+
+
+.proyect-container {
+  padding: 2rem;
+  display: flex;
+  justify-content: space-between;
+  height: fit-content;
+}
+
+.proyect-1 {
+  background-color: white;
+  border-radius: 2rem;
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1),
+    0 4px 6px -4px rgba(0, 0, 0, 0.1);
+}
+
+.proyect-skills {
+  display: flex;
+  width: 100%;
+  justify-content: space-around;
+}
+
+.skill-h {
+  width: 2.5rem;
+  height: 2.5rem;
+  background: url("../../public/images/typescript.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.skill-j {
+  width: 2.5rem;
+  height: 2.5rem;
+  background: url("../../public/images/git.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.left {
+  width: 40%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.top {
+  text-align: center;
+}
+
+.top p {
+  font-weight: 500;
+}
+
+.proyect-title {
+  font-size: 1.7rem;
+  margin: 0;
+  margin-bottom: 1rem;
+  background: #730202;
+background: linear-gradient(to right, #730202 0%, #000000 100%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+}
+
+.proyect-description {
+  margin: 0;
+}
+
+.bottom {
+  display: flex;
+  flex-direction: column;
+}
+
+.bottom > h3 {
+  margin: 0;
+  margin-bottom: 1rem;
+  text-align: center;
+  background: #C7502C;
+background: linear-gradient(to right, #C7502C 0%, #FFF01C 50%, #00A3A8 50%, #057AFF 50%, #FF0303 100%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+}
+
+.right {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.img-proyect-1 {
+  width: 25rem;
+  height: 15rem;
+  border-radius: 2rem;
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1),
+    0 4px 6px -4px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+}
+
+.img-proyect-1:hover {
+  transform: scale(1.01);
+}
+
+.img-proyect-1 {
+  background: url("../../public/images/Captura.PNG");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.proyect-links {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+}
+
+.proyect-links a {
+  padding: 2rem 1rem 0 1rem;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  text-decoration: none;
+}
+
+.bx-globe {
+  color: var(--black);
+  transition: color 0.1s ease;
+}
+
+.bx-globe:hover {
+  color: var(--purple);
+}
+
+@media only screen and (max-width: 1453px) {
+  .Proyects-container {
+    padding: 6.5rem 11rem;
+  }
+}
+
+@media only screen and (max-width: 1139px) {
+  .Proyects-container {
+    padding: 6.5rem 4.5rem;
+  }
+  .proyect-container {
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .left {
+    width: 100%;
+    padding-bottom: 2rem;
+  }
+  .proyect-description {
+    margin-bottom: 2rem;
+  }
+  .bottom {
+    justify-content: center;
+    align-items: center;
+  }
+  .bottom h3 {
+    margin-bottom: 0.5rem;
+  }
+  .proyect-skills {
+    width: 60%;
+  }
+}
+
+@media only screen and (max-width: 710px) {
+  .Proyects-container {
+    padding: 6.5rem 1.5rem;
+  }
+  .top {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+  }
+  .proyect-title {
+    font-size: 1.3rem;
+  }
+  .proyect-description {
+    font-size: 0.8rem;
+    ;
+  }
+  .bottom h3 {
+    font-size: 0.8rem;
+  }
+  .left {
+    justify-content: flex-start;
+  }
+  .right {
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+  }
+  .img-proyect-1  {
+    width: 20rem;
+    height: 12rem;
+  }
+}
+
+@media only screen and (max-width: 523px) {
+  .Proyects-title h2 {
+    font-size: 1.3rem;
+  }
+  .proyect-skills {
+    width: 100%;
+  }
+}
+
+@media only screen and (max-width: 438px) {
+  .img-proyect-1
+  .img-link {
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 9rem;
+  }
+}
+
+

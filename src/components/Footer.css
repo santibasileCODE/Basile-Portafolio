@@ -1,0 +1,37 @@
+.Footer{
+  height: 6.5rem;
+  width: 100%;
+  background-color: #FFFFFF;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100%25' height='100%25' viewBox='0 0 100 60'%3E%3Cg %3E%3Crect fill='%23FFFFFF' width='11' height='11'/%3E%3Crect fill='%23fbfafb' x='10' width='11' height='11'/%3E%3Crect fill='%23f6f5f7' y='10' width='11' height='11'/%3E%3Crect fill='%23f2f1f3' x='20' width='11' height='11'/%3E%3Crect fill='%23eeecef' x='10' y='10' width='11' height='11'/%3E%3Crect fill='%23e9e7eb' y='20' width='11' height='11'/%3E%3Crect fill='%23e5e2e7' x='30' width='11' height='11'/%3E%3Crect fill='%23e1dde3' x='20' y='10' width='11' height='11'/%3E%3Crect fill='%23ddd9e0' x='10' y='20' width='11' height='11'/%3E%3Crect fill='%23d9d4dc' y='30' width='11' height='11'/%3E%3Crect fill='%23d4cfd8' x='40' width='11' height='11'/%3E%3Crect fill='%23d0cbd4' x='30' y='10' width='11' height='11'/%3E%3Crect fill='%23ccc6d0' x='20' y='20' width='11' height='11'/%3E%3Crect fill='%23c8c1cc' x='10' y='30' width='11' height='11'/%3E%3Crect fill='%23c4bdc9' y='40' width='11' height='11'/%3E%3Crect fill='%23c0b8c5' x='50' width='11' height='11'/%3E%3Crect fill='%23bbb4c1' x='40' y='10' width='11' height='11'/%3E%3Crect fill='%23b7afbd' x='30' y='20' width='11' height='11'/%3E%3Crect fill='%23b3abb9' x='20' y='30' width='11' height='11'/%3E%3Crect fill='%23afa6b6' x='10' y='40' width='11' height='11'/%3E%3Crect fill='%23aba2b2' y='50' width='11' height='11'/%3E%3Crect fill='%23a79dae' x='60' width='11' height='11'/%3E%3Crect fill='%23a399ab' x='50' y='10' width='11' height='11'/%3E%3Crect fill='%239f94a7' x='40' y='20' width='11' height='11'/%3E%3Crect fill='%239b90a3' x='30' y='30' width='11' height='11'/%3E%3Crect fill='%23978ca0' x='20' y='40' width='11' height='11'/%3E%3Crect fill='%2393879c' x='10' y='50' width='11' height='11'/%3E%3Crect fill='%238f8398' x='70' width='11' height='11'/%3E%3Crect fill='%238b7f95' x='60' y='10' width='11' height='11'/%3E%3Crect fill='%23877a91' x='50' y='20' width='11' height='11'/%3E%3Crect fill='%2383768d' x='40' y='30' width='11' height='11'/%3E%3Crect fill='%237f728a' x='30' y='40' width='11' height='11'/%3E%3Crect fill='%237c6e86' x='20' y='50' width='11' height='11'/%3E%3Crect fill='%23786a83' x='80' width='11' height='11'/%3E%3Crect fill='%2374657f' x='70' y='10' width='11' height='11'/%3E%3Crect fill='%2370617c' x='60' y='20' width='11' height='11'/%3E%3Crect fill='%236c5d78' x='50' y='30' width='11' height='11'/%3E%3Crect fill='%23695975' x='40' y='40' width='11' height='11'/%3E%3Crect fill='%23655571' x='30' y='50' width='11' height='11'/%3E%3Crect fill='%2361516e' x='90' width='11' height='11'/%3E%3Crect fill='%235d4d6a' x='80' y='10' width='11' height='11'/%3E%3Crect fill='%235a4967' x='70' y='20' width='11' height='11'/%3E%3Crect fill='%23564564' x='60' y='30' width='11' height='11'/%3E%3Crect fill='%23524160' x='50' y='40' width='11' height='11'/%3E%3Crect fill='%234f3e5d' x='40' y='50' width='11' height='11'/%3E%3Crect fill='%234b3a5a' x='90' y='10' width='11' height='11'/%3E%3Crect fill='%23473656' x='80' y='20' width='11' height='11'/%3E%3Crect fill='%23443253' x='70' y='30' width='11' height='11'/%3E%3Crect fill='%23402f50' x='60' y='40' width='11' height='11'/%3E%3Crect fill='%233d2b4c' x='50' y='50' width='11' height='11'/%3E%3Crect fill='%23392749' x='90' y='20' width='11' height='11'/%3E%3Crect fill='%23362446' x='80' y='30' width='11' height='11'/%3E%3Crect fill='%23322043' x='70' y='40' width='11' height='11'/%3E%3Crect fill='%232f1c40' x='60' y='50' width='11' height='11'/%3E%3Crect fill='%232b193c' x='90' y='30' width='11' height='11'/%3E%3Crect fill='%23281539' x='80' y='40' width='11' height='11'/%3E%3Crect fill='%23241236' x='70' y='50' width='11' height='11'/%3E%3Crect fill='%23210f33' x='90' y='40' width='11' height='11'/%3E%3Crect fill='%231e0a30' x='80' y='50' width='11' height='11'/%3E%3Crect fill='%231B052D' x='90' y='50' width='11' height='11'/%3E%3C/g%3E%3C/svg%3E");
+  background-attachment: fixed;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.Footer p {
+  margin: 0;
+  color: white;
+  font-weight: 400;
+}
+
+@media only screen and (max-width: 750px) {
+  .Footer {
+    height: 5.5rem;
+  }
+  .Footer p {
+    font-size: 0.8rem;
+  }
+}
+
+@media only screen and (max-width: 450px) {
+  .Footer {
+    height: 4.5rem;
+  }
+  .Footer p {
+    font-size: 0.6rem;
+  }
+}
+
+

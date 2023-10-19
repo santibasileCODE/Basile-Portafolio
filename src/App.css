@@ -1,0 +1,10 @@
+
+.Contact-Footer-container {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgb(237, 237, 237);;
+}
+
